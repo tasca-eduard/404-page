@@ -1,0 +1,12 @@
+.button {
+    padding: 2.4rem 4.2rem;
+
+    &.primary {
+        background: $black;
+        color: $white;
+        
+        &:hover {
+            background: darken($black, 20%);
+        }
+    }
+}
