@@ -29,7 +29,7 @@ function App() {
                     created by <u><strong>tasca-eduard</strong></u> - devChallenges.io
                 </span>
             </div>
-        </footer>
+        </footer>        
     </>
   );
 }
